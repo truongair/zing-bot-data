@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download": "https://github.com/truongair/zing-bot-data/releases/download/v1.0.0/ZingBot.exe",
-  "changelog": "Phien ban dau tien"
+  "version": "1.1.0",
+  "download": "https://github.com/truongair/zing-account-generator/releases/download/v1.1.0/ZingAccountGenerator.exe",
+  "changelog": "Nang cap UI, cau hinh username/password day du, ho tro nhieu dinh dang proxy (http, socks4, socks5)"
 }
